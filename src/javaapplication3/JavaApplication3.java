@@ -19,6 +19,7 @@ public class JavaApplication3 {
         System.out.println("Helo!");
         System.out.println("world!");
         System.out.println("world man!");
+        System.out.println("Man!");
     }
     
 }
