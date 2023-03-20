@@ -20,6 +20,7 @@ public class JavaApplication3 {
         System.out.println("world!");
         System.out.println("world man!");
         System.out.println("Man!");
+        System.out.println("New Man!");
     }
     
 }
